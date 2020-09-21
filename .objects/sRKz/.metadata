@@ -1,0 +1,14 @@
+﻿{
+  "Id": "sRKzp2VmY0SWJjTo_Mqm_A",
+  "Reference": "bvEawz1YOUiOwq4UStyskg/sRKzp2VmY0SWJjTo_Mqm_A",
+  "Name": "github",
+  "Type": "App",
+  "Created": "2020-08-25T16:08:18.255354Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-08-25T16:08:18.8233864Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
